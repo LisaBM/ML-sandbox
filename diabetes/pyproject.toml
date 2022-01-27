@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "diabetes"
+version = "0.0.1"
+description = ""
+authors = ["Lisa Mattrisch"]
+
+[tool.poetry.dependencies]
+python = "3.10.*"
+
+mypy = "*"
+pandas = "*"
+toml = "*"
+sklearn = "*"
+yapf = "*"
