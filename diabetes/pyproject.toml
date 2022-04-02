@@ -9,6 +9,7 @@ python = "3.10.*"
 
 mypy = "*"
 pandas = "*"
+pylint = "*"
 toml = "*"
 sklearn = "*"
 yapf = "*"
